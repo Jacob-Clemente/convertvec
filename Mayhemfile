@@ -1,0 +1,5 @@
+project: jacob-clemente/convertvec
+target: convertvec
+
+cmds:
+  - cmd: /convertvec bin2txt @@ out.txt
